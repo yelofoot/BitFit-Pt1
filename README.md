@@ -1,7 +1,7 @@
 # BitFit-Pt1
 AND102 Project - Unit 5
 
-# Android Project 5 - *Name of App Here*
+# Android Project 5 - BitFit
 
 Submitted by: Tyler Austin
 
